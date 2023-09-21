@@ -25,8 +25,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   and propeller used for desaturation of the wheel. Sub-system's inertia was characterized as well as
   friction due to bearings and slip rings. A matlab model was developed to ball park feedback control
   gains then tuned using a ZN style tuning procedure.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "mgiglia.github.io/rxwheel.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  mgiglia92
 
 # Build settings
